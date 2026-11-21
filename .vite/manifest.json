@@ -1,0 +1,27 @@
+{
+  "../../../node_modules/@fontsource-variable/archivo/files/archivo-latin-standard-normal.woff2": {
+    "file": "assets/archivo-latin-standard-normal-DY7AcnAa.woff2",
+    "src": "../../../node_modules/@fontsource-variable/archivo/files/archivo-latin-standard-normal.woff2"
+  },
+  "../../../node_modules/fake-indexeddb/auto/index.mjs": {
+    "file": "assets/auto-aSFBTJRj.js",
+    "name": "auto",
+    "src": "../../../node_modules/fake-indexeddb/auto/index.mjs",
+    "isDynamicEntry": true
+  },
+  "index.html": {
+    "file": "assets/index-hbED_qnS.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "../../../node_modules/fake-indexeddb/auto/index.mjs"
+    ],
+    "css": [
+      "assets/index-A1H0XPxZ.css"
+    ],
+    "assets": [
+      "assets/archivo-latin-standard-normal-DY7AcnAa.woff2"
+    ]
+  }
+}
